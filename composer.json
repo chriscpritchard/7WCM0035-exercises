@@ -1,12 +1,16 @@
 {
-  "name": "vendor_name/package_name",
-  "description": "description_text",
+  "name": "chriscpritchard/7wcm0035ex",
+  "description": "Exercises from the UH 7WCM0035 module",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
-      "name": "author's name",
-      "email": "email@example.com"
+      "name": "Chris Pritchard",
+      "email": "chris@christopherpritchard.co.uk"
     }
-  ]
+  ],
+  "require": {
+    "oneforge/forexquotes": "2.0.8"
+  }
 }
+
